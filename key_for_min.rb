@@ -11,6 +11,7 @@ name_hash.each do |key, value|
   elsif value < name_hash[key]
     min = key
   end
+end
 
   Minimum
 end
